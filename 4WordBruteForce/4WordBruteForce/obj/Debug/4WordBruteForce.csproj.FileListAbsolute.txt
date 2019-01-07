@@ -1,0 +1,7 @@
+C:\Users\mark\source\repos\4WordBruteForce\4WordBruteForce\bin\Debug\4WordBruteForce.exe.config
+C:\Users\mark\source\repos\4WordBruteForce\4WordBruteForce\bin\Debug\4WordBruteForce.exe
+C:\Users\mark\source\repos\4WordBruteForce\4WordBruteForce\bin\Debug\4WordBruteForce.pdb
+C:\Users\mark\source\repos\4WordBruteForce\4WordBruteForce\obj\Debug\4WordBruteForce.csprojAssemblyReference.cache
+C:\Users\mark\source\repos\4WordBruteForce\4WordBruteForce\obj\Debug\4WordBruteForce.csproj.CoreCompileInputs.cache
+C:\Users\mark\source\repos\4WordBruteForce\4WordBruteForce\obj\Debug\4WordBruteForce.exe
+C:\Users\mark\source\repos\4WordBruteForce\4WordBruteForce\obj\Debug\4WordBruteForce.pdb
